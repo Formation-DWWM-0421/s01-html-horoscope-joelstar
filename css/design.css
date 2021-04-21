@@ -1,0 +1,45 @@
+body{
+    background-image: url("../images/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+
+}
+header{
+    margin: 0 auto;
+    
+}
+h1{
+    font-size: 5em;
+    font-family: 'Blippoi', fantasy, sans-serif;
+    font-weight: bold;
+    display:block;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    text-shadow:0 0 15px rgb(255, 255, 255);
+    padding: 1em 0;
+    margin: 0 auto;
+    border-bottom: 4px solid rgb(255,255,255);
+}
+h2{
+    display: block;
+    font-size: 3em;
+    font-weight: bold;
+    border-bottom:2px solid rgb(255,255,255);
+    padding:  10px 0 10px 0;
+    
+
+}
+
+.wrapper{
+    padding: 0 2em 0 2em;
+    max-width: 80em;
+    margin: 0 auto;
+    background-color: #131b31;
+    }
+    
+.p-header{
+    text-align: justify;
+}
+ul
